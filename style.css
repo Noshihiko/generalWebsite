@@ -17,7 +17,7 @@
     position: absolute;
     bottom: 0;
     left: 0;
-    background: url('https://cdn-user-icons.flaticon.com/71337/71337269/1673217128950.svg?token=exp=1673218034~hmac=f4516aae34a9ecc053dbad897858b05d') repeat-x var(--dark-blue);
+    background: url("content/brain.png") repeat-x var(--dark-blue);
     background-position: center;
     background-size: contain;
     width: 1000%;
